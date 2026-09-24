@@ -1,13 +1,10 @@
 import arcade
 
 game_name = "peak"
-
 game_width = 800
 console_width = 300
 
 height = 600
-
-
 width = game_width + console_width
 
 circle_pos = 400
